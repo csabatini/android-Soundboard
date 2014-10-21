@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="labels">
+        <item>Zero</item>
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+    </string-array>
+
+    <integer-array name="ids">
+        <item>@raw/zero</item>
+        <item>@raw/one</item>
+        <item>@raw/two</item>
+        <item>@raw/three</item>
+        <item>@raw/four</item>
+        <item>@raw/five</item>
+        <item>@raw/six</item>
+        <item>@raw/seven</item>
+        <item>@raw/eight</item>
+        <item>@raw/nine</item>
+        <item>@raw/ten</item>
+    </integer-array>
+</resources>
